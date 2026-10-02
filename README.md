@@ -14,7 +14,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/ruuy7237/mcp-knowledge-server.git
+git clone https://github.com/YOUR_NAME/mcp-knowledge-server.git
 cd mcp-knowledge-server
 
 # 依赖 second-brain-rag 生成的索引
